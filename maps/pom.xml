@@ -33,7 +33,7 @@
 	          <manifest>
 	            <addClasspath>true</addClasspath>
 	            <classpathPrefix>lib/</classpathPrefix>
-	            <mainClass>com.hoosteen.maps.MapStart</mainClass>
+	            <mainClass>src.main.java.com.hoosteen.maps.MapStart</mainClass>
 	          </manifest>
 	        </archive>
 	      </configuration>
